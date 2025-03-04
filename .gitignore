@@ -1,0 +1,7 @@
+### Ada template
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+
